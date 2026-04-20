@@ -1,6 +1,6 @@
 # TICK Stack labor - Chuck Norris Monitor
 
-See projekt sisaldab töötava monitooringusüsteemi üles seadmist ja arusaamist iga komponenedi tööst.
+See projekt sisaldab töötava monitooringusüsteemi üles seadmist ja arusaamist iga komponendi tööst.
 
 ## Eesmärk
 
