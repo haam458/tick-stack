@@ -4,15 +4,18 @@ See projekt sisaldab töötava monitooringusüsteemi üles seadmist ja arusaamis
 
 ## Eesmärk
 
-- arusaada, kuidas Telegraf kogub andmeid erinevatest allikatest
-- arusaada, kuidas InfluxDB 2.x salvestab aegreadata ja pakub visualiseerimist
-- arusaada, kuidas komponendid omavahel suhtlevad
-- arusaada, kuidas seadistada monitooringut päris rakendusele
+- kuidas Telegraf kogub andmeid erinevatest allikatest
+- kuidas InfluxDB 2.x salvestab aegreadata ja pakub visualiseerimist
+- komponentide omavaheline suhtlemine
+- monitooringu seadistamine päris rakendusele
 
 ## Tehnoloogiad
 
 - Telegraf
 - InfluxDB
 - Docker
+- Flask
+
+Lisatud on ka pildid graafikutest.
 
 
