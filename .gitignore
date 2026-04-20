@@ -1,0 +1,21 @@
+#logid
+*.log
+
+#ajutised failid
+tmp/
+temp/
+*.tmp
+
+# süsteemifailid
+.DS_Store
+Thumbs.db
+
+# Docker / Loki runtime failid
+*.pid
+*.db
+*.wal
+
+# Secrets
+.env
+.env.local
+*.key
